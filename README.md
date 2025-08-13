@@ -110,7 +110,7 @@ Prerequisites
 Installation
 1.	Clone the repository:
 bash
-git clone https://github.com/yourusername/chat-summarization-api.git
+git clone https://github.com/Kjyoti25/Chat_summarization_api.gt
 cd chat-summarization-api
 2.	Create and activate virtual environment:
 bash
